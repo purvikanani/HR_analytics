@@ -1,0 +1,32 @@
+Attrition Related Questions:
+a. What is the overall attrition rate in the dataset?
+b. Are there specific age bands or job roles with higher attrition rates?
+c. How does business travel correlate with attrition?
+d. Does overtime significantly contribute to attrition?
+
+Demographic and Employee Profile Questions:
+a. What is the age distribution of employees in the dataset?
+b. How is attrition distributed across different age bands?
+c. What is the gender distribution in the dataset?
+d. Are there correlations between education level and attrition?
+e. How does marital status affect attrition rates?
+
+Job-Related Questions:
+a. How does job role correlate with attrition rates?
+b. Is there a relationship between job satisfaction and attrition?
+c. Does distance from home impact attrition rates?
+d. Are certain departments more susceptible to attrition than others?
+e. How does performance rating affect attrition?
+
+Work Experience and Career Development Questions:
+a. How does the number of years at the company correlate with attrition?
+b. Is there a link between total working years and attrition?
+c. How does the number of companies worked at influence attrition rates?
+d.Does job level affect attrition rates?
+
+Employee Satisfaction and Well-being Questions:
+a. Does work-life balance impact attrition rates?
+b. How does environment satisfaction correlate with attrition?
+c. Is there a relationship between relationship satisfaction and attrition?
+d. Does training frequency affect attrition rates?
+e. How does income or salary affect attrition rates?
